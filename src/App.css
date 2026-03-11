@@ -11,3 +11,13 @@
 .header{
   padding: 10px;
 }
+
+footer {
+  font-size: small;
+  color: darkolivegreen;
+}
+
+body {
+  padding: 10px;
+  background-color: bisque;
+}
